@@ -1,12 +1,15 @@
-# testing  '<h1>' 
-# testing '<h2>' 
+
 # testing <h3> 
+# testing  
 #### testing <h4> 
 
 ![Image of copy and paste alt-text!](https://octodex.github.com/images/yaktocat.png)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
-# testing <h5> 
-# testing <h6> 
+
 # This is an `<h1>` header, which is the largest
 ## This is an `<h2>` header
 ###### This is an `<h6>` header, which is the smallest
