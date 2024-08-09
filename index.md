@@ -3,6 +3,8 @@
 # testing <h3> 
 #### testing <h4> 
 
+![Image of copy and paste alt-text!](https://octodex.github.com/images/yaktocat.png)
+
 # testing <h5> 
 # testing <h6> 
 # This is an `<h1>` header, which is the largest
